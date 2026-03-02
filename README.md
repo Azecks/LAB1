@@ -50,9 +50,13 @@
 
 ### Тестирование
 <img width="508" height="117" alt="image" src="https://github.com/user-attachments/assets/b62aa227-a412-4fa9-b1fc-4067175d26f8" />
+
 <img width="500" height="95" alt="image" src="https://github.com/user-attachments/assets/1673eb7f-e142-4860-91d4-0baa33b83a6f" />
+
 <img width="483" height="122" alt="image" src="https://github.com/user-attachments/assets/554d8e45-0b74-4db7-ad9f-ae9541ded7c5" />
+
 <img width="507" height="101" alt="image" src="https://github.com/user-attachments/assets/525113ad-8f15-4f43-882b-fb97da637259" />
+
 <img width="1170" height="238" alt="image" src="https://github.com/user-attachments/assets/9e0f8c5f-2688-4875-a3e7-6815a50ddd60" />
 
 
@@ -141,6 +145,17 @@ IV.Обработка выбора
 	-Когда пользователь выбирает "0", рекурсия завершается
 	-Управление возвращается в task3
 	-task3 завершает работу
+	### Тестирование
+	<img width="386" height="601" alt="image" src="https://github.com/user-attachments/assets/6af4f0f5-fc6b-46fd-99b9-c86b845657ea" />
+	<img width="376" height="588" alt="image" src="https://github.com/user-attachments/assets/cf8b49af-95bb-4561-84fb-48874858930f" />
+	<img width="941" height="591" alt="image" src="https://github.com/user-attachments/assets/c5339b6f-ca28-48f6-a258-22e991ed7422" />
+	<img width="628" height="594" alt="image" src="https://github.com/user-attachments/assets/98f08630-f1f9-44cf-91ae-347708cdab68" />
+
+
+	
+
+	
+
 
 
 
