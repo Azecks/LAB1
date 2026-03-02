@@ -1,4 +1,4 @@
-# Султанов Мавлиахн БАС2 Лабораторная №1
+# Султанов Мавлихан БАС2 Лабораторная №1
 
 # Задание 1
 
@@ -19,9 +19,9 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы 
-
-
+<img width="608" height="117" alt="2026-03-03_01-54-53" src="https://github.com/user-attachments/assets/dfc6e9c6-52e0-4f1b-9863-28c5b872a677" />
+<img width="1079" height="228" alt="image" src="https://github.com/user-attachments/assets/05a55942-7503-4fba-8ccf-4c2f88c83e5b" />
+<img width="607" height="120" alt="image" src="https://github.com/user-attachments/assets/286c4594-06a5-4c58-bef1-0dcc68c9d44a" />
 
 
 
@@ -49,8 +49,12 @@
 
 
 ### Тестирование
+<img width="508" height="117" alt="image" src="https://github.com/user-attachments/assets/b62aa227-a412-4fa9-b1fc-4067175d26f8" />
+<img width="500" height="95" alt="image" src="https://github.com/user-attachments/assets/1673eb7f-e142-4860-91d4-0baa33b83a6f" />
+<img width="483" height="122" alt="image" src="https://github.com/user-attachments/assets/554d8e45-0b74-4db7-ad9f-ae9541ded7c5" />
+<img width="507" height="101" alt="image" src="https://github.com/user-attachments/assets/525113ad-8f15-4f43-882b-fb97da637259" />
+<img width="1170" height="238" alt="image" src="https://github.com/user-attachments/assets/9e0f8c5f-2688-4875-a3e7-6815a50ddd60" />
 
-Скриншоты результата работы программы
 
 # Задание 3
 
@@ -108,7 +112,7 @@ IV.Обработка выбора
 	-Функция menu вызывает саму себя и передает тот же список
 	-Программа возвращается к ШАГУ 5
 
-	4)При 4
+4)При 4
 	-Выводится приглашение "Введите индекс: "
 	-Пользователь вводит индекс 
 	-Вызывается функция getNumberByIndex с текущим списком и индексом *
@@ -130,7 +134,7 @@ IV.Обработка выбора
 	-Функция menu вызывает саму себя и передает новый список
 	-Программа возвращается к ШАГУ 5
 	6)При 6
-	-Выводится "Текущий список: [5; 10; 20; 25; 30; 35; 40]"
+	-Выводится "Текущий список"
 	-Функция menu вызывает саму себя и передает тот же список
 	-Программа возвращается к ШАГУ 5
 	7)При 0
@@ -140,9 +144,11 @@ IV.Обработка выбора
 
 
 
-### Тестирование
 
-Скриншоты результата работы программы
+
+
+
+
 
 
 
